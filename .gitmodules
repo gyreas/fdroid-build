@@ -1,3 +1,6 @@
 [submodule "balloon"]
 	path = balloon
 	url = https://github.com/gyreas/balloon
+[submodule "fdroid-data"]
+	path = fdroid-data
+	url = https://github.com/gyreas/fdroid-data
